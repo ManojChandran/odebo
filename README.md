@@ -7,12 +7,12 @@ Add Your Tap to Homebrew
 Once the repository is public on GitHub, you (and others) can add it to Homebrew:
 
 ```
-brew tap manojchandran/tap
+brew tap manojchandran/odebo
 ```
 To install our tool:
 
 ```
-brew install odebo
+brew install manojchandran/odebo/odebocli
 ```
 To verify our installation:
 ```
